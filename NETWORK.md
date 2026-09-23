@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Cloud Optimizer
 
-**ai-cloud-optimizer** is part of the Zion Tech Group app network (630+ apps).
+Cloud cost optimization and resource right-sizing.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Cost, FinOps & Cloud](https://github.com/Zion-support/zion-network/blob/main/network/cost-finops-cloud.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
+- Related: [ai-compute-optimizer](https://github.com/Zion-support/ai-compute-optimizer) · [zion-ai-cost-optimizer](https://github.com/Zion-support/zion-ai-cost-optimizer) · [zion-ai-cloud-cost-navigator](https://github.com/Zion-support/zion-ai-cloud-cost-navigator) · [green-cloud-picker](https://github.com/Zion-support/green-cloud-picker) · [cloud-cost-estimator](https://github.com/Zion-support/cloud-cost-estimator)
 
-## Related apps
-- [finops-autopilot](https://github.com/Zion-support/finops-autopilot) — Cost anomaly detection & rightsizing
-- [ai-compute-optimizer](https://github.com/Zion-support/ai-compute-optimizer) — GPU/TPU cost reduction
-- [cloud-cost-estimator](https://github.com/Zion-support/cloud-cost-estimator) — Multi-cloud price comparison
-- [ai-finops-suite](https://github.com/Zion-support/ai-finops-suite) — Optimize cloud and AI costs
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
